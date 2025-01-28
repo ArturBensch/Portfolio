@@ -1,11 +1,11 @@
 # Bem-vindo(a) ao meu Portfólio de Análise e Ciência de Dados!
-[![author](https://img.shields.io/badge/author-henriquewfranco-red.svg)](https://www.linkedin.com/in/arturbenschborst/) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+[![author](https://img.shields.io/badge/author-arturbensch-red.svg)](https://www.linkedin.com/in/arturbenschborst/)
 
 <p align="center">
-  <img src="https://github.com/HenriqueWF/Portfolio/assets/86746927/2e663706-31cc-48f8-9bb5-42f4678eb72f" width=40%>
+  <img src="https://tse2.mm.bing.net/th?id=OIG3.96bvOzz6HBGs88Gvhat3&pid=ImgGn" width=40%>
 </p>
 
-## **SOBRE**
+# **SOBRE**
 Olá!
 
 📌 Trabalho na área de análise de dados e BI há quase 2 anos.
@@ -14,9 +14,12 @@ Olá!
 
    <br> ↳ Essa experiência fortaleceu minha habilidade de comunicar e simplificar dados, promovendo insights para públicos diversos, ao mesmo tempo em que aprimorei minha capacidade de trabalhar de forma colaborativa em grandes equipes multidisciplinares...
 
-📌  Meu objetivo vai além de apresentar números e gráficos; busco compreender as necessidades do negócio para oferecer soluções estratégicas que resolvam desafios específicos.
+📌  Meu objetivo vai além de apresentar números e gráficos, busco compreender as necessidades do negócio para oferecer soluções estratégicas que resolvam desafios específicos.
 
 
 
 
-## **PROJETOS**
+# **PROJETOS**
+
+## **Python:**
+
