@@ -27,5 +27,6 @@ Olá!
 
  - Realizei uma análise exploratória utilizando Python e bibliotecas de dados(matplotlib,pandas e etc) com foco na venda de Produtos em uma rede de mercado X
  - Desenvolvi dashboards que indicam os principais insights a serem abordados pela empresa com base no dataset, exemplo disso é a análise de Tendência de vendas durante os dias da semana.
- - - **[Acesse meu estudo para conferir outros achados
+
+    **[Acesse meu projeto para maiores detalhes:](https://github.com/ArturBensch/Projeto-Vendas)**
 
