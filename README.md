@@ -28,7 +28,7 @@ Olá!
  - Realizei uma análise exploratória utilizando Python e bibliotecas de dados(matplotlib,pandas e etc) com foco na venda de Produtos em uma rede de mercado X
  - Desenvolvi dashboards que indicam os principais insights a serem abordados pela empresa com base no dataset, exemplo disso é a análise de Tendência de vendas durante os dias da semana.
 <p align="center">
-  <img alt="Descrição do Gráfico" width="50%" src="https://private-user-images.githubusercontent.com/107015503/407426228-d803aab9-2d42-4413-bd41-5733600d1a56.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgwODYwMDgsIm5iZiI6MTczODA4NTcwOCwicGF0aCI6Ii8xMDcwMTU1MDMvNDA3NDI2MjI4LWQ4MDNhYWI5LTJkNDItNDQxMy1iZDQxLTU3MzM2MDBkMWE1Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyOFQxNzM1MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZWM4Njk1NGI2NDM1M2IzNzIzMjlkZWM2ZmQ5YWI3ZDJjZTJhYjJmNmUxN2M4ODY0YmI5ZmI3MmI0NDYyM2RmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CJheWT81tBeeX1d3Ky9Wt3sOdbFSCSze0khPBMjVlwo">
+  <img alt="Descrição do Gráfico" width="70%" src="https://github.com/user-attachments/assets/2eaac75d-3b05-4130-8ab7-ddb22fe35586">
 </p>
 
   **[Acesse meu projeto para maiores detalhes:](https://github.com/ArturBensch/Projeto-Vendas)**
