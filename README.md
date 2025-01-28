@@ -31,5 +31,5 @@ Olá!
   <img alt="Descrição do Gráfico" width="70%" src="https://github.com/user-attachments/assets/2eaac75d-3b05-4130-8ab7-ddb22fe35586">
 </p>
 
-  **[Acesse meu projeto para maiores detalhes:](https://github.com/ArturBensch/Projeto-Vendas)**
+  **[Acesse meu projeto para maiores detalhes:](https://github.com/ArturBensch/Supermarket-sales)**
 
