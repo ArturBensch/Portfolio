@@ -27,7 +27,8 @@ Olá!
 ### **Projeto Automatização dos Gráficos de Faturamento do Conselho de Exportação**
 - Desenvolvi e automatizei dashboards para a área de uma empresa **xxxx**. Promovendo maior agilidade, segurança e insights.
 - Além disso, apresentei esse projeto para demais áreas, estimulando novas iniciativas BI.
-  Agenda da apresentação
+  
+  Agenda da apresentação:
   <p align="center">
   <img alt="Descrição do Gráfico" width="70%" src="https://github.com/user-attachments/assets/ee70b4a0-38a7-4462-98d9-ceff4b135566">
 </p>
