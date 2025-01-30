@@ -33,3 +33,12 @@ Olá!
 
   **[Acesse meu projeto para maiores detalhes:](https://github.com/ArturBensch/Supermarket-sales)**
 
+
+### **Projeto Análise de Ship Performance**
+- Iniciei uma análise explorátoria com o objetivo de encontrar correlação entre as variáveis e entender a performasse das embarcações no Golfo da Guiné, assim entender os principais pontos a dar atenção.
+- Abaixo vemos as relaçoes entre as variáveis Contínuas, e nota-se que não há uma relaçao direta entre elas, sendo necessário aprofundar os dados, como é feito no projeto.
+<p align="center">
+  <img alt="Descrição do Gráfico" width="70%" src="https://github.com/user-attachments/assets/da404ad1-05b0-4c4e-b458-ae1828e2a2c1">
+</p>
+
+**[Projeto Ship Performance:]**
