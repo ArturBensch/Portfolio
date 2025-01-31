@@ -35,8 +35,30 @@ Olá!
 
 **[Acesse meu case para maiores detalhes:](https://github.com/ArturBensch/Projeto-Tableau)**
 
-  
+---------------------------------------------------------------------------------------------
 
+
+### **Projeto BI for Procurement**
+ - Participei ativamente de um grande projeto de dados para a área de Compras. Esse projeto trouxe um grande saving e cultura de data driven para a empresa.
+    <p align="center">
+    <img alt="Descrição do Gráfico" width="70%" src="https://github.com/user-attachments/assets/83616ebb-b312-43e7-96b9-bcc27700c13b">
+    </p>
+    
+   #### Minhas Principais Atividades:
+   
+     - Criação de Dashboards.
+     - Apoio no desenvolvimento da base de dados dentro da AWS.
+     - Participação em reuniões de negócio para tomadas de decisões.
+     - Atuei e aprendi a trabalhar com a Metodologia Ágil(Scrum e Kanban), participando das sprints, colaborando na organização de tarefas e dando report das minhas atividades.
+       
+  *Destaco também a parceria criada duarante o projeto. Formando grandes amizades dentro e fora da empresa.*
+  <p align="center">
+    <img alt="Descrição do Gráfico" width="50%" src="https://github.com/user-attachments/assets/4d18bf9e-19c8-48bd-99f7-3d5de794352b">
+    </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------  
+
+     
 ## **Python:**
 
 ### **Projeto Análise de Vendas para Rede de Mercados "X"**
@@ -49,6 +71,7 @@ Olá!
 
   **[Acesse meu projeto para maiores detalhes:](https://github.com/ArturBensch/Supermarket-sales)**
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Projeto Análise de Ship Performance**
 - Iniciei uma análise explorátoria com o objetivo de encontrar correlação entre as variáveis e entender a performance das embarcações no Golfo da Guiné, assim entender os principais pontos a dar atenção.
