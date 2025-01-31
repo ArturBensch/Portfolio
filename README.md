@@ -11,8 +11,7 @@ Olá!
 📌 Trabalho na área de análise de dados e BI há quase 2 anos.
 
 📌 Com experiência no uso de Tableau, SQL, Excel e AWS, atuei em diversos setores corporativos, como comercial, compras, financeiro e logística. Participei de grandes projetos, impulsionando não apenas a cultura de BI, mas também gerando savings e contribuindo para o aumento de lucros da empresa.
-
-   <br> ↳ Essa experiência fortaleceu minha habilidade de comunicar e simplificar dados, promovendo insights para públicos diversos, ao mesmo tempo em que aprimorei minha capacidade de trabalhar de forma colaborativa em grandes equipes multidisciplinares...
+<br> ↳ Essa experiência fortaleceu minha habilidade de comunicar e simplificar dados, promovendo insights para públicos diversos, ao mesmo tempo em que aprimorei minha capacidade de trabalhar de forma colaborativa em grandes equipes multidisciplinares...
 
 📌  Meu objetivo vai além de apresentar números e gráficos, busco compreender as necessidades do negócio para oferecer soluções estratégicas que resolvam desafios específicos.
 
@@ -51,7 +50,7 @@ Olá!
      - Participação em reuniões de negócio para tomadas de decisões.
      - Atuei e aprendi a trabalhar com a Metodologia Ágil(Scrum e Kanban), participando das sprints, colaborando na organização de tarefas e dando report das minhas atividades.
        
-  *Destaco também a parceria criada duarante o projeto. Formando grandes amizades dentro e fora da empresa.*
+  *Destaco também a parceria construída durante o projeto, que não apenas facilitou a colaboração e a troca de conhecimentos, mas também resultou em grandes amizades dentro e fora da empresa.* ❤️❤️
   <p align="center">
     <img alt="Descrição do Gráfico" width="50%" src="https://github.com/user-attachments/assets/4d18bf9e-19c8-48bd-99f7-3d5de794352b">
     </p>
