@@ -10,10 +10,10 @@ Olá!
 
 📌 Trabalho na área de análise de dados e BI há quase 2 anos.
 
-📌 Com experiência no uso de Tableau, SQL, Excel e AWS, atuei em diversos setores corporativos, como comercial, compras, financeiro e logística. Participei de grandes projetos, impulsionando não apenas a cultura de BI, mas também gerando savings e contribuindo para o aumento de lucros da empresa.
-<br> ↳ Essa experiência fortaleceu minha habilidade de comunicar e simplificar dados, promovendo insights para públicos diversos, ao mesmo tempo em que aprimorei minha capacidade de trabalhar de forma colaborativa em grandes equipes multidisciplinares...
+📌 Com experiência no uso de Tableau, SQL, Excel e AWS, atuei em diversos setores corporativos, como comercial, compras, financeiro e logística. Participei de grandes projetos, impulsionando não apenas a cultura de BI, mas também gerando savings e contribuindo para o aumento dos lucros da empresa.
+↳ Essa experiência fortaleceu minha habilidade de comunicar e simplificar dados, promovendo insights para públicos diversos, ao mesmo tempo em que aprimorei minha capacidade de trabalhar de forma colaborativa em grandes equipes multidisciplinares...
 
-📌  Meu objetivo vai além de apresentar números e gráficos, busco compreender as necessidades do negócio para oferecer soluções estratégicas que resolvam desafios específicos.
+📌 Meu objetivo vai além de apresentar números e gráficos; busco compreender as necessidades do negócio para oferecer soluções estratégicas que resolvam desafios específicos.
 
 
 
@@ -24,8 +24,9 @@ Olá!
 ## **Cases de Sucesso!!**
 
 ### **Projeto Automatização dos Gráficos de Faturamento do Conselho de Exportação**
-- Desenvolvi e automatizei dashboards para a área de uma empresa **xxxx**. Promovendo maior agilidade, segurança e insights.
-- Além disso, apresentei esse projeto para demais áreas, estimulando novas iniciativas BI.
+- Desenvolvi e automatizei dashboards para a área de uma empresa *xxxx*, promovendo maior agilidade, segurança e insights.
+- Além disso, apresentei esse projeto para as demais áreas, estimulando novas iniciativas de BI.
+
   
   Agenda da apresentação:
   <p align="center">
