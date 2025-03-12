@@ -21,7 +21,7 @@ Olá!
 # **PROJETOS**
 
 
-## **Cases de Sucesso!!**
+## **💫💫Cases de Sucessos Reais💫💫**
 
 ### **Projeto Automatização dos Gráficos de Faturamento do Conselho de Exportação**
 - Desenvolvi e automatizei dashboards para a área de uma empresa *xxxx*, promovendo maior agilidade, segurança e insights.
@@ -35,10 +35,8 @@ Olá!
 
 **[Acesse meu case para maiores detalhes:](https://github.com/ArturBensch/Projeto-Tableau)**
 
----------------------------------------------------------------------------------------------
 
-
-### **Projeto BI for Procurement**
+### **Projeto BI for Procurement 🛒**
  - Participei ativamente de um grande projeto de dados para a área de Compras. Esse projeto trouxe um grande saving e cultura de data driven para a empresa.
     <p align="center">
     <img alt="Descrição do Gráfico" width="70%" src="https://github.com/user-attachments/assets/83616ebb-b312-43e7-96b9-bcc27700c13b">
@@ -81,3 +79,25 @@ Olá!
 </p>
 
 **[Projeto Ship Performance:](https://github.com/ArturBensch/Projeto-ShipPerformance)**
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **Power BI**
+
+### **Case Analista de Dados - POWER BI**
+
+- Esse case trata-se de uma loja virtual que vende produtos de material de escritório e eletrônicos para o Brasil e para Fora do Brasil, e para que seja possível gerenciar o funcionamento dessa loja, precisamos que seja criado dashboards em PB que ajude a organização a entender a performance da loja para os níveis de Análise estratégica e Análises Operacionais.
+  
+- Objetivos:
+1)	Com base nos dados, faça uma análise crítica da performance de venda da loja;
+2)	Dê visibilidade na variação de vendas entre mês e Ano;
+3)	Dê visibilidade a margem de lucro das vendas
+4)	Dê visibilidade do impacto da devolução nas vendas e nos lucros;
+5)	Criar uma medida que calcule a taxa de devolução por produto;
+6)	Comparar o total de vendas com devoluções acumuladas ao longo do tempo usando 
+a.	Desafio: Criar um gráfico de linha que exiba Vendas x Devoluções YTD para monitorar o impacto das devoluções mês a mês.
+7)	Calcular o custo financeiro das devoluções considerando o valor das vendas devolvidas e possíveis descontos. Mostrando o impacto financeiro das devoluções em comparação com o faturamento bruto.
+8)	Dê visibilidade a indicadores e comportamentos das devoluções.
+9)	Há algum produto com potencial saída de nosso portifólio? Se sim, justifique. 
+10)	Para construir esse case é importante construir um bom storytelling de dados.
+
