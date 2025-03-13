@@ -101,11 +101,9 @@ a.	Desafio: Criar um gráfico de linha que exiba Vendas x Devoluções YTD para 
 9)	Há algum produto com potencial saída de nosso portifólio? Se sim, justifique. 
 10)	Para construir esse case é importante construir um bom storytelling de dados.
 
-    
+    https://github.com/user-attachments/assets/d07d54c2-dfa2-41b9-9693-1f5a1cd883ba
 
-
-https://github.com/user-attachments/assets/d07d54c2-dfa2-41b9-9693-1f5a1cd883ba
-
+**[Acesse meu case para maiores detalhes:]
 
 
 
