@@ -105,6 +105,10 @@ a.	Desafio: Criar um gráfico de linha que exiba Vendas x Devoluções YTD para 
    	
 **[Acesse meu case para maiores detalhes:](https://github.com/ArturBensch/CasePowerBI.git)**
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **SQL**
+
 
 
 
