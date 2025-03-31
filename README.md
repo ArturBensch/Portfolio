@@ -109,7 +109,14 @@ a.	Desafio: Criar um gráfico de linha que exiba Vendas x Devoluções YTD para 
 
 ## **SQL**
 
+### **Análise Exploratória - Employee DataBase**
 
+
+- A base de dados Employee do *MySQL* é um conjunto de dados fictício amplamente utilizado para estudos e testes relacionados a SQL. Essa base simula um ambiente corporativo com informações detalhadas sobre funcionários, cargos, departamentos, salários e histórico de empregos dentro da empresa. Com essa base, é possível aplicar técnicas de **JOINs**, **subqueries**, **agregações**, funções de janela, CTEs e outras funcionalidades avançadas do SQL para resolver problemas e responder perguntas comuns no contexto de análise de dados corporativos.
+
+- Modelo Relacional
+  
+  ![image](https://github.com/user-attachments/assets/701d5a3f-77ff-4cdb-ac82-cf6f668082d3)
 
 
 
