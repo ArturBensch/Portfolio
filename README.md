@@ -118,6 +118,8 @@ a.	Desafio: Criar um gráfico de linha que exiba Vendas x Devoluções YTD para 
   
   ![image](https://github.com/user-attachments/assets/701d5a3f-77ff-4cdb-ac82-cf6f668082d3)
 
+**[Link para a Análise](https://github.com/ArturBensch/AnaliseExploratoria-EmployeeDataBase-SQL-.git)**
+
 
 
 
